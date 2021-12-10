@@ -1,0 +1,25 @@
+.card{
+    border: none;
+    border-radius: 9px;
+    background: url('https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_960_720.png');
+}
+
+.F-Card{
+    max-width: 520px;
+    max-height: 140px;
+}
+
+.F-Cart-Info{
+    padding-left: 0;
+    padding-right: 75px;
+}
+
+.F-Cart-Info h1{
+    font-size: 22px;
+    color: white;
+}
+
+.F-Cart-Info p{
+    font-size: 11px;
+    color: white;
+}
